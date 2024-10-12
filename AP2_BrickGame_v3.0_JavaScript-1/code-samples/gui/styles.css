@@ -40,3 +40,8 @@ body {
 .dashboard-text {
     font-size: 2rem;
 }
+
+canvas {
+    border: 1px solid black;
+    background-color: #aaaaaa;
+}
